@@ -1,7 +1,7 @@
 /* eslint react-hooks/exhaustive-deps: off */
 import React from "react";
-import "./style.css";
+import "./styles.css";
 
 export const App = () => {
-  return <div></div>;
+  return null;
 };
